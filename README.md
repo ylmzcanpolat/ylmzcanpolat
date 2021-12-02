@@ -1,4 +1,4 @@
-<img src="code.gif" width="50%"> 
+<img src="code.gif" width="50%" style="float: right"> 
 
 <!--
 **ylmzcanpolat/ylmzcanpolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

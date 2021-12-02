@@ -1,11 +1,5 @@
-<img src="code.gif" width="50%" width="500" height="320" align="right"> 
-<style>
-mark{
-    color:red;
-}
-</style>
+<img src="code.gif" width="50%" height="320" align="right">
 
-<mark>what is DataBase</mark>
 
 <!--
 **ylmzcanpolat/ylmzcanpolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

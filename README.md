@@ -1,4 +1,4 @@
-## I'm a FreeLancer 🆓, Full Stack Developer 🚀!  
+## I'm a FreeLancer 🆓 and Full Stack Developer 🚀!  
 <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylmzcanpolat&theme=buefy&layout=compact" /></p>
 
 - 🔭 I’m currently working on FullStack Bootcamp

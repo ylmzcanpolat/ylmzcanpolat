@@ -10,9 +10,9 @@
 - I'm also developing an web site with my team 👨🏼‍🤝‍👨🏻, 
 
 ### 📩 Connect with me:
-<a href="https://www.linkedin.com/in/y%C4%B1lmazcanpolat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogancanulgu" height="30" width="40" /></a>
-[<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
-[<img align="center" height="30" width="30" src="https://www.upwork.com/favicon.ico" />][upwork]
+<a href="https://www.linkedin.com/in/y%C4%B1lmazcanpolat/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dogancanulgu" height="30" width="40" /></a>
+[<img align="center" height="30" width="40" target="_blank" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
+[<img align="center" height="30" width="30" target="_blank" src="https://www.upwork.com/favicon.ico" />][upwork]
 
 [gmail]: mailto:ylmzcanpolat@gmail.com
 [upwork]: https://www.upwork.com/freelancers/~01bd6a46b409874053
